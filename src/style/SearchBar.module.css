@@ -1,0 +1,27 @@
+.formStyle{
+    margin-top: 100px;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 120px;
+}
+.SearchBar{
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+}
+.input{
+    height: 50px;
+    width: 300px;
+    border-radius: 40px;
+    background-color: rgba(128, 128, 128, 0.31);
+    border: 0;
+    color: white;
+    
+}
+.label{
+    color: white;
+    font-family: "roboto", arial;
+    font-size: 40px;
+}

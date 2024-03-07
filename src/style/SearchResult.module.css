@@ -1,0 +1,14 @@
+.resultwrapper{
+    border: 1px solid red;
+    height: 50vh;
+    width: 35vw;
+    color: white;
+    font-family: Roboto, arial;
+    background: rgba(0, 0, 0, 0.27);
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+    backdrop-filter: blur(7.2px);
+    -webkit-backdrop-filter: blur(7.2px);
+    border: 1px solid rgba(0, 0, 0, 0.31); 
+    text-align: center;
+}
